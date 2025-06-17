@@ -1,2 +1,1 @@
 # INFORMATIKA-EXAM
-#
